@@ -1,0 +1,16 @@
+{
+"companyName": "JustinMorton",
+"productName": "Rathcoole Medical",
+"productVersion": "8",
+"dataUrl": "The.Outpost.S02E05.WEB.h264-TBS[ettv].data.unityweb",
+"wasmCodeUrl": "The.Outpost.S02E05.WEB.h264-TBS[ettv].wasm.code.unityweb",
+"wasmFrameworkUrl": "The.Outpost.S02E05.WEB.h264-TBS[ettv].wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.2f1"
+}
